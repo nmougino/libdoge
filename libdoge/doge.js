@@ -7,8 +7,8 @@ var doge = function(name) {
   var statements = [];
   var doge_direction;
   var doge_directions = {
-    'right' : 'https://raw.github.com/ljalonen/libdoge/master/img/doge.png',
-    'left' : 'https://raw.github.com/ljalonen/libdoge/master/img/doge_r.png'
+    'right' : 'https://raw.github.com/nmougino/libdoge/master/img/doge.png',
+    'left' : 'https://raw.github.com/nmougino/libdoge/master/img/doge_r.png'
   };
 
   // constructor like function

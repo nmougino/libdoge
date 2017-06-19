@@ -3,7 +3,7 @@ libdoge
 
 wow such good doge. doge will come to your pages and say content aware things lol.
 
-![wow screenshot](https://raw.github.com/ljalonen/libdoge/master/screenshots/libdoge.gif)
+![wow screenshot](https://raw.github.com/nmougino/libdoge/master/screenshots/libdoge.gif)
 
 ## Tipping
 So can tip **dogecoin**: DFU8ydPgDL6yzjDVFHdY3B333mEq61EJz3
@@ -16,7 +16,7 @@ Install Chrome extension available at [Chrome Store][chromestore]
 
 
 then just click doge that invaded your browser
-![wow screenshot](https://raw.github.com/ljalonen/libdoge/master/screenshots/chrome-extension.png)
+![wow screenshot](https://raw.github.com/nmougino/libdoge/master/screenshots/chrome-extension.png)
 
 
 ### Others Firefox, Safari, ... (and Chrome too) 
@@ -32,15 +32,15 @@ OR
 * Set following text to URL
 
 ```javascript
-javascript:void ((function(){var b=document.createElement("script");b.setAttribute("src","https://raw.github.com/ljalonen/libdoge/master/libdoge/bookmarklet-min.js");document.body.appendChild(b)})());
+javascript:void ((function(){var b=document.createElement("script");b.setAttribute("src","https://raw.github.com/nmougino/libdoge/master/libdoge/bookmarklet-min.js");document.body.appendChild(b)})());
 ```
 
 * Add to bookmarks toolbar
 * Click bookmark to dogefy
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ljalonen/libdoge/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nmougino/libdoge/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
    [chromestore]: https://chrome.google.com/webstore/detail/such-good-doge/ifbchccfedjkkhlnffjckaghjdpchhmo  "Chrome store"
-   [bookmarklet]: https://rawgithub.com/ljalonen/libdoge/master/bookmarklet.html "Doge"
+   [bookmarklet]: https://rawgithub.com/nmougino/libdoge/master/bookmarklet.html "Doge"
    [wikibookmarklet]: http://en.wikipedia.org/wiki/Bookmarklet "Bookmarklet"
